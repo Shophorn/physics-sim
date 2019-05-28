@@ -1,3 +1,5 @@
+![Demo Image](demo.gif)
+
 Simple 2d Physics simulation for Game Physics-course
 
 Requires:
